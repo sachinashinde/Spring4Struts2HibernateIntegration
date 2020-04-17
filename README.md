@@ -1,12 +1,14 @@
 # Spring4Struts2HibernateIntegration
 Java web application using spring 4 struts 2, hibernate, mysql, jsp, tlds, log4j, transaction mgnt and maven to deploy on tomcat server as war file
 
-WEb Site :
+Reference site :
 ----------
 https://howtodoinjava.com/struts2/spring-4-struts-2-hibernate-integration-tutorial/#Integration_Overview
 
-Database :
+Database : MySQl
 ----------
+CREATE DATABASE test
+
 CREATE TABLE EMPLOYEE
 (
     ID          INT PRIMARY KEY AUTO_INCREMENT,
