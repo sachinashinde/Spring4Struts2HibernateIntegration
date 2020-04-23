@@ -12,6 +12,7 @@ public class EmployeeDaoImpl implements EmployeeDAO
 {
 	//Session factory injected by spring context
     private SessionFactory sessionFactory;
+    
 	
     //This method will be called when a employee object is added
 	@Override
